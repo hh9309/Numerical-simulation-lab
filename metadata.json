@@ -1,0 +1,8 @@
+{
+  "name": "数值计算与仿真工厂",
+  "description": "面向大学与科研探索者的离散计算与连续数学解析沉浸式仿真沙盒，包含牛顿迭代、黎曼积分、ODE龙格库塔、蒙特卡洛与矩阵热传导求解，由 AI 提供误差洞察与理论推演。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
